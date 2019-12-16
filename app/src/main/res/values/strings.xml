@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sqlite App</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_number">Enter your Number</string>
+    <string name="submit">Submit</string>
+    <string name="show">Show</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="data">Data from the database will display here.</string>
+</resources>
